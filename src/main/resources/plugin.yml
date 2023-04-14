@@ -1,0 +1,5 @@
+name: DamageMonster
+version: ${project.version}
+main: kr.yunah.damagemonster.DamageMonster
+commands:
+  test:
